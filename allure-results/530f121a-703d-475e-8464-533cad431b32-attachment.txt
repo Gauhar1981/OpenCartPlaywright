@@ -1,0 +1,18 @@
+Unable to click logout link, Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('a').filter({ hasText: 'Logout' }).first()
+    - locator resolved to <a href="https://tutorialsninja.com/demo/index.php?route=account/logout">Logout</a>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    49 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+

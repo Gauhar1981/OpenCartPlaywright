@@ -1,0 +1,8 @@
+✅ Navigate to Home Page
+✅ Resistration is completed
+✅ Logout is completed
+✅ Login is completed
+[ 'MacBook', 'MacBook Air', 'MacBook Pro' ]
+✅ Product added to cart
+🛒Navigated to shopping cart
+✅ Shoping Cart contents verified
